@@ -26,5 +26,5 @@ With a Filter Search that will slice the data filtering and grouping the results
 
 ## Summary:
 
-Project seems to be quite simnple, but behind the scenes has a database in .Js, an App.js that holds the code. Index.html has the code that set up the visualization file, [Image, Filter Box, written informatuion and data table].
+The project seems to be quite simple, but behind the scenes has a database in .Js, an App.js that holds the code. Index.html has the code that set up the visualization file, [Image, Filter Box, written information and data table].
 Style.css holds the page customization components.
