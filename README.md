@@ -4,22 +4,22 @@
 
 ## Results: 
 
-- HTML Page
+### HTML Page
 ![html](static/images/ufohtml.png)
 
-- Filter Criteria
+### Filter Criteria
 ![filterseach](static/images/filtersearch.png)
 
-- By Date
+### By Date
 ![date](static/images/bydate.png)
 
-- By City
+### By City
 ![city](static/images/bycity.png)
 
-- By State
+### By State
 ![state](static/images/bystate.png)
 
-- By Shape
+### By Shape
 ![shape](static/images/byshape.png)
 
 ## Summary:
